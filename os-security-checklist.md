@@ -2,7 +2,7 @@ User Accounts & Privileges
 •	Verified existing users using:
 	cat /etc/passwd
 •	Identified current user:
-  whoami
+    whoami
 •	Checked sudo privileges:
 	sudo -l
 
